@@ -1,0 +1,37 @@
+{
+"symbol": "RECOM",
+
+"name": "recom.network",
+
+"type": "ERC20",
+
+"address": "0x0a24Bb4842c301276c65086B5d78D5C872993c72",
+"ens_address": "",
+"decimals":18,
+"website": "https://recom.network",
+"logo":<img src="https://ia.wampi.ru/2020/12/21/logo.png" alt="logo" border="0"> {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+},
+"support":gov@recom.network {
+    "email": "",
+    "url": ""
+},
+"social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/TimRainTech",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "t.me/TimRainTech",
+    "twitter": "https://twitter.com/TimRainTech",
+    "youtube": ""
+}
+}
